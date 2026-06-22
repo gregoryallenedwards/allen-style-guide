@@ -40,24 +40,24 @@ Concrete detail first (the windows, the light), then the precise observation it 
 
 A writerly rhythm that, used decoratively, signals effort rather than meaning. Test: is the phrase load-bearing or ornamental? As the plain first statement of a literal image it can be exactly right. It bites when it dresses up a sentence that has nothing else to offer.
 
-- **KEEP (load-bearing):** *The lights in the basilica went out one at a time.* (a literal event stated plainly — the plainness carries authority)
-- **CUT (ornamental):** *One by one, the doubts fell away, one after another, until only faith remained.* (rhythm performing the work that meaning should do)
+- **KEEP (load-bearing):** *The lights in the theater went out one at a time.* (a literal event stated plainly — the plainness carries authority)
+- **CUT (ornamental):** *One by one, the objections fell away, one after another, until only the verdict remained.* (rhythm performing the work that meaning should do)
 
 ### The aphoristic both-sides loop ("X, because nobody Xes the Y they can already Z")
 
 The sentence that folds back on itself to sound wise. It sounds composed by a machine optimizing for profundity.
 
-- **BAD:** *...singing words I didn't examine, because nobody examines the words they can already sing.*
-- **GOOD:** *...I had sung the liturgy for years without once stopping to ask what it meant.*
+- **BAD:** *...playing notes I never questioned, because nobody questions the song they can already play.*
+- **GOOD:** *...I had played the piece for years without once stopping to ask what it meant.*
 
 ### Empty poetic abstraction
 
 Images that sound evocative but denote nothing. If you cannot say what it means when pressed, cut it.
 
-- **BAD:** *...Pentecostal services where the air came apart and people spoke in tongues.*
-- **GOOD:** *...Pentecostal services where people spoke in tongues and were, by their own account, seized, taken up by something that used their bodies and then handed them back.*
+- **BAD:** *...the last miles of the marathon, where the pain came apart and the runners floated.*
+- **GOOD:** *...the last miles of the marathon, where runners describe the pain thinning into something almost pleasant, their legs moving without instruction, the body, by their own account, running itself.*
 
-Note what the good version does: it stays physical ("used their bodies," "handed them back"), marks the experience as reported rather than confirmed ("by their own account"), and gives the reader something to see.
+Note what the good version does: it stays physical ("their legs moving without instruction"), marks the experience as reported rather than confirmed ("by their own account"), and gives the reader something to see.
 
 ### The dramatic reversal as a verbal tic ("Not X. Y.")
 
@@ -68,8 +68,8 @@ Powerful once, exhausting in repetition. Permit it rarely, for a genuine hinge. 
 
 The same tell wears a smoother coat as the **antithesis seesaw** ("it is not about the money, it is about the principle"). The staccato version announces itself; the seesaw hides inside a calm explanatory sentence and is harder to catch. Both are the machine reaching for the shape of insight before it has the insight. The cure is the same: say the true half and stop.
 
-- **SEESAW:** *The cathedral was not built for the worshippers, it was built for God.*
-- **PLAIN:** *The cathedral was built for God, and the worshippers were never meant to see most of it.*
+- **SEESAW:** *The factory was not built for the workers, it was built for the machines.*
+- **PLAIN:** *The factory was built for the machines, and the workers were fitted in around them.*
 
 ### The rule of three on autopilot
 
@@ -87,8 +87,8 @@ Do not state an idea and then restate it in case the reader missed it. Trust the
 
 The machine resolves every beat on a warm or elevating note: the reach for significance, hope, or shared humanity at the end of each paragraph or section. One earned lift in a whole piece can land. A lift at the end of every beat is wallpaper, and the reader stops trusting any of them. Most beats should end on the fact, the image, or the tension left standing. Let resolution be rare enough to mean something.
 
-- **BAD:** *And that, in the end, is what the ritual offers: a way to feel less alone.*
-- **GOOD:** *The ritual did not make them less alone. It gave them something to do with the aloneness.*
+- **BAD:** *And that, in the end, is what the long apprenticeship offers: a way to become who we were meant to be.*
+- **GOOD:** *The apprenticeship did not make them masters. It gave them a place to put the hours.*
 
 The good version refuses the consolation the bad one hands over. It can also simply stop on the last concrete thing and trust it, which is the rule below on ending paragraphs on the strong beat.
 
@@ -127,7 +127,7 @@ The concrete version is also longer, and that is fine. The length is doing work.
 
 - Prefer the concrete noun to the abstract one. "Granite," "candle," "knocking" before "architecture," "ritual," "atmosphere."
 - Prefer the plain word to the elevated one unless the elevated word is exact. Reach for the precise rare word, never the merely fancy one.
-- Numbers are allowed and good when specific and verified ("the vault at eighty-two feet," "a hundred and thirty-eight feet to the dome"). Vague magnitude ("incredibly tall," "massive") is weak.
+- Numbers are allowed and good when specific and verified ("the span ran four thousand two hundred feet," "the engine turned over at six thousand revolutions"). Vague magnitude ("incredibly tall," "massive") is weak.
 - Avoid therapy-speak and wellness-speak ("holding space," "journey," "showing up for yourself"). The voice is older and cooler than that vocabulary.
 
 ---
@@ -138,13 +138,13 @@ The concrete version is also longer, and that is fine. The length is doing work.
 
 A first line that states the central image as plainly as it can be stated, trusting the image to carry the weight without decoration. Plainness reads as authority.
 
-> *The lights in the basilica went out one at a time.*
+> *The lights in the theater went out one at a time.*
 
 ### The posture-planting sentence
 
 One quiet, early sentence that tells the reader where the narrator stands, so they stop bracing for the piece they fear they are reading. Install the narrator's stance in a single unshowy line near the top.
 
-> *...not hostile to religion and holding no particular opinion of the people who practiced it.*
+> *...neither an admirer of the man nor a partisan of his theory, with no stake in how the argument came out.*
 
 ### The set-up hinge before a list of effects
 

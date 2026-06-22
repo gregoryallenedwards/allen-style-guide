@@ -66,6 +66,11 @@ Powerful once, exhausting in repetition. Permit it rarely, for a genuine hinge. 
 - **OVERUSED:** *It was not loud. It was not soft. It was something else.*
 - **EARNED (sparingly):** *Not is it true. Something stranger, and far more useful.*
 
+The same tell wears a smoother coat as the **antithesis seesaw** ("it is not about the money, it is about the principle"). The staccato version announces itself; the seesaw hides inside a calm explanatory sentence and is harder to catch. Both are the machine reaching for the shape of insight before it has the insight. The cure is the same: say the true half and stop.
+
+- **SEESAW:** *The cathedral was not built for the worshippers, it was built for God.*
+- **PLAIN:** *The cathedral was built for God, and the worshippers were never meant to see most of it.*
+
 ### The rule of three on autopilot
 
 Three is not a magic number. Use two when two is true, four when four is true. Triplets everywhere are a generator's reflex.
@@ -77,6 +82,15 @@ Cut "genuinely," "honestly," "actually," "truly," "simply" wherever they are doi
 ### Over-explaining the just-said
 
 Do not state an idea and then restate it in case the reader missed it. Trust the first statement. The machine reflex is to gloss; resist it.
+
+### The reflexive uplift (the consoling closer)
+
+The machine resolves every beat on a warm or elevating note: the reach for significance, hope, or shared humanity at the end of each paragraph or section. One earned lift in a whole piece can land. A lift at the end of every beat is wallpaper, and the reader stops trusting any of them. Most beats should end on the fact, the image, or the tension left standing. Let resolution be rare enough to mean something.
+
+- **BAD:** *And that, in the end, is what the ritual offers: a way to feel less alone.*
+- **GOOD:** *The ritual did not make them less alone. It gave them something to do with the aloneness.*
+
+The good version refuses the consolation the bad one hands over. It can also simply stop on the last concrete thing and trust it, which is the rule below on ending paragraphs on the strong beat.
 
 ---
 
@@ -103,6 +117,7 @@ The concrete version is also longer, and that is fine. The length is doing work.
 ## Sentence rhythm
 
 - Vary length deliberately. A long Huxley sentence should be followed or preceded by a short one that lets the reader breathe. Three long sentences in a row is fog; three short ones in a row is a telegram.
+- Distrust symmetry. Balanced clauses of equal length and matching shape, especially stacked two or three deep, are a machine signature even after the em dashes are gone. The ban on em dashes removes one carrier of this cadence, not the habit. Real thought is lopsided; let one clause be heavier than the next.
 - End paragraphs on the strong beat, not the explanatory tail. Cut the sentence that explains the good last line.
 - Read every paragraph aloud. If you run out of breath or lose the thread, it is too long or too tangled.
 
@@ -147,4 +162,4 @@ Establish a specific case in full concrete detail, then step back to show what i
 
 Before any sentence stays: *Did a thoughtful person write this, or did a machine assemble it to sound like one?*
 
-If there is any em dash, cadence cliché, empty image, self-folding aphorism, or unanchored abstraction, the answer is the second one, and the sentence gets rewritten.
+If there is any em dash, cadence cliché, empty image, self-folding aphorism, antithesis seesaw, reflexive uplift, stacked symmetry, or unanchored abstraction, the answer is the second one, and the sentence gets rewritten.

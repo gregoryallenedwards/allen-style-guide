@@ -4,11 +4,23 @@
 
 ---
 
+## Two modes: choose before you start
+
+This guide serves two kinds of project, and exactly one rule changes between them. Decide which you are in before the first sentence, and state it at the top of the brief.
+
+**The enduring mode** is the default: writing built to read as well in fifty years as it does today. Spiritual, philosophical, historical, or otherwise meant to last. Here the timeliness rule below is in full force: no reference that will date.
+
+**The topical mode** is for writing that is *about* the present and means to be. A book on steering a career through the rise of AI is the clear case: its whole value is that it names what is happening right now. Here the timeliness rule is suspended. Current events, named technologies, and recent figures are not a lapse, they are the point. Date the writing deliberately and date it well.
+
+Everything else in this guide applies to both modes without exception. The ban on em dashes, the machine tells, concrete-before-abstract, the master test: all of it holds whether the work is meant for a century or for this year. Only the question of dated references changes.
+
+---
+
 ## The voice target: Huxley crossed with Gladwell
 
 Neither alone is right. The goal is a specific blend.
 
-**From Huxley:** the long, supple sentence that carries a real idea without collapsing under it; erudition worn lightly; a faint cool detachment even when the subject is warm; the willingness to reach for a large claim and state it quietly rather than sell it; timelessness, meaning no reference that will need a footnote in a century.
+**From Huxley:** the long, supple sentence that carries a real idea without collapsing under it; erudition worn lightly; a faint cool detachment even when the subject is warm; the willingness to reach for a large claim and state it quietly rather than sell it; and, in the enduring mode, timelessness, meaning no reference that will need a footnote in a century.
 
 **From Gladwell:** the concrete scene as the way into an idea; the specific number and the specific detail; the pull-back from a particular moment to the pattern behind it; propulsion, the sense that the next sentence is worth getting to; the occasional turn to "you" that puts the reader inside the question.
 
@@ -26,7 +38,7 @@ Concrete detail first (the windows, the light), then the precise observation it 
 
 1. **No em dashes. Ever.** Not for asides, not for emphasis, not for trailing thoughts. Use a comma, a colon, a period, or restructure the sentence. This is the single most reliable tell of machine prose.
 
-2. **No reference that dates the writing.** No living celebrities as load-bearing examples, no current events, no technology that will look quaint, no slang. If an example will need explaining in fifty years, find an older one that does the same work. A building from the sixth century is safer than a famous musician.
+2. **No reference that dates the writing (enduring mode only).** In the enduring mode: no living celebrities as load-bearing examples, no current events, no technology that will look quaint, no slang. If an example will need explaining in fifty years, find an older one that does the same work. A building from the sixth century is safer than a famous musician. **In the topical mode this rule is suspended:** when the subject is the present, name it precisely, date it on purpose, and reach for the current example rather than the ancient one. The other three hard rules hold in both modes.
 
 3. **No proselytizing.** The writing never tells the reader what to believe. It reports, it reasons, it offers. The reader chooses.
 

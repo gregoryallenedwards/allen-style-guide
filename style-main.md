@@ -218,6 +218,44 @@ Establish a specific case in full concrete detail, then step back to show what i
 
 ---
 
+## Writing a Substack article
+
+A format-specific appendix, not a third mode. The piece is still either enduring or topical; this only adds the working rules for shipping one on Substack. They were learned drafting a product-launch piece and they hold for that shape of article.
+
+### Process
+
+- **Work one beat at a time and get the writer's sign-off on each before moving to the next.** A whole draft written solo in one pass gets rejected; small approved steps compound into a piece the writer will stand behind.
+- **Get the opening approved before drafting the rest.** The opening sets the key for everything after it, so settling it first saves rewriting the body twice.
+- **First person must be grounded in true material.** Never invent a personal anecdote or memoir detail to open or illustrate; if real first-person detail is used, the writer supplies it. An invented "I" is the fastest way to lose a reader who knows the writer.
+
+### Choosing the example
+
+- **Never prove the product with a quick one-off task a reader could do faster without it.** The example must be real, substantial work, or it quietly argues against the thing it is selling.
+
+### Title
+
+- **The title is about the reader, not the writer.** Offer a benefit they want or an insight they can repeat; never brag, never cast yourself as the hero.
+- **Lead with the capability the reader wants, not the deficiency they live in.** A title that diagnoses the reader ("you are doing it wrong") reads as a scold and loses the click; one that promises the capability earns it.
+- **Optimize for qualified clicks, not raw reach.** A reader who could actually subscribe or buy is worth more than a thousand who cannot; specificity is the filter, and the narrower the title cuts to the real reader, the higher the qualification.
+
+### Subtitle
+
+- **Let the subtitle do the qualifying while the title carries the promise.** Name the specific reader and their situation so the right person recognizes themselves and the wrong person scrolls on.
+
+### Structure
+
+- **Open with an honest, plain statement of the real problem, not a staged dramatic scene.** A scene is allowed only when it is true and supplied by the writer; concrete before abstract still governs.
+- **Reader-first, not feature-first or me-first.** The reader stays in the room only as long as the piece is about their problem.
+- **Introduce the product later, as relief, not as a pitch.** By the time it arrives the reader should already want it, so it reads as an answer rather than an ad.
+- **Say what the product is NOT before what it is.** The honest-scope move builds trust with a skeptical reader faster than any list of features.
+- **End on a concrete, flat beat.** No reflexive uplift, no closing inspiration; the rule against the consoling closer applies here as everywhere.
+
+### Length
+
+- **Target 1500 to 2000 words unless told otherwise.** Long enough to earn the claim, short enough to be read in one sitting.
+
+---
+
 ## The master test
 
 Before any sentence stays: *Did a thoughtful person write this, or did a machine assemble it to sound like one?*

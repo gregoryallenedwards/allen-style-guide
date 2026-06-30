@@ -104,6 +104,54 @@ The machine resolves every beat on a warm or elevating note: the reach for signi
 
 The good version refuses the consolation the bad one hands over. It can also simply stop on the last concrete thing and trust it, which is the rule below on ending paragraphs on the strong beat.
 
+### The manufactured punch line (the clipped sentence written for effect)
+
+A very short standalone sentence engineered to land a beat or sound profound. This is distinct from the "Not X. Y." reversal: it is a single clipped declarative dropped for drama, not a contrast. A reader can smell the engineering, and it costs you their trust.
+
+- **BAD:** *I pick one and start.*
+- **BAD:** *The piece that fails is me.*
+- **BAD:** *...and that half hour is mine.*
+- **GOOD:** *I can quickly pick the most important task and hand it to an agent.*
+
+Cure: state it plainly inside a full sentence, or cut it. A short sentence may stay only if it carries literal information, not a drumbeat.
+
+### The product-pitch abstraction ("it lives in the app")
+
+Describing what a tool does in vague spatial or abstract metaphor instead of the literal action the user takes.
+
+- **BAD:** *The map lives in the app now.*
+- **BAD:** *What it does instead is narrow: it holds every task and the state each one is in.*
+- **GOOD:** *When a task is blocked, I swipe it into the future, and it drops out of view until the thing it is waiting on is done.*
+
+Cure: describe the concrete action the user takes and what they see.
+
+### The "what it does is" frame
+
+The machine reaches for the "What X does is Y" / "What it does instead is Z" product-copy cadence instead of naming the action directly.
+
+- **BAD:** *What it does is hold everything in one place.*
+- **GOOD:** *It puts everything I have going on one screen.*
+
+Cure: just say what it does, with a subject and a verb.
+
+### Phrasing the writer would never say aloud (the voice mismatch)
+
+A line that is grammatical and "writerly" but not how this person actually talks. Correct on paper, wrong in the mouth.
+
+- **BAD:** *I used to guard that half hour.*
+- **GOOD:** *I used to sit and wait the run out.*
+
+Cure: say the line the way you would say it to a person. If you would not say it aloud, rewrite it.
+
+### The colon-and-balanced-examples list
+
+A colon followed by two or three tidy parallel example fragments, balanced for rhythm. The balance is the tell; it is the stacked-symmetry habit surviving in a smaller form.
+
+- **BAD:** *the business around the code: a listing to update, a message that goes out once a build is live.*
+- **GOOD:** *Some of it isn't code at all. A price needs changing on the site. A message needs to go out the moment a build ships.*
+
+Cure: break the balanced fragments into plain declaratives, or keep only the one that earns its place.
+
 ---
 
 ## Concrete before abstract, always
@@ -174,4 +222,4 @@ Establish a specific case in full concrete detail, then step back to show what i
 
 Before any sentence stays: *Did a thoughtful person write this, or did a machine assemble it to sound like one?*
 
-If there is any em dash, cadence cliché, empty image, self-folding aphorism, antithesis seesaw, reflexive uplift, stacked symmetry, or unanchored abstraction, the answer is the second one, and the sentence gets rewritten.
+If there is any em dash, cadence cliché, empty image, self-folding aphorism, antithesis seesaw, manufactured punch line, product-pitch abstraction, "what it does is" frame, phrasing the writer would never say aloud, colon-and-balanced-examples list, reflexive uplift, stacked symmetry, or unanchored abstraction, the answer is the second one, and the sentence gets rewritten.
